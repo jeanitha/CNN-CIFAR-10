@@ -1,2 +1,2 @@
 # CNN-CIFAR-10
-A CNN (Convolutional Neural Network) Model using the CIFAR-10 test set
+PyTorch Convolutional Neural Network (CNN) With CIFAR-10 Color Image Dataset
